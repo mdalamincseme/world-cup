@@ -2,7 +2,6 @@
 
 .container {
   background-color: black;
-  height: 400px;
   width: 100%;
   display: flex;
   padding: 40px 0px;
@@ -170,11 +169,13 @@ ul {
   margin-top: 70px;
 }
 li {
-  list-style: none;
   font-family: "Poppins", sans-serif;
   list-style: none;
   margin-left: 50px;
   font-size: 16px;
   font-weight: 600;
   color: rgb(216, 217, 218);
+}
+.icon {
+  visibility: hidden;
 }
