@@ -135,6 +135,10 @@ h5 {
 .second-row {
   display: flex;
 }
+
+.hide {
+  visibility: hidden;
+}
 /* blog-part end here  */
 
 /* footer-part start here */

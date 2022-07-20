@@ -88,6 +88,10 @@
   .blog-part {
     display: block;
   }
+  .hide {
+    visibility: visible;
+    margin-left: 330px;
+  }
   .menu-part {
     display: block;
     width: 100%;
